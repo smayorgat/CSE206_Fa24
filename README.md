@@ -13,7 +13,7 @@ Everything else is scheduled:
 3. September 12th: Events, probability, conditional probability and Bayes' formula.
 4. September 19th: Probability distributions.
 5. <ins>September 26th</ins>: Mean, variance, covariance and Chebyshev's inequality. **Partial test** on
-topics 1 through 5 *during tutorial time*.
+topics 1 through 4 *during tutorial time*.
 6. October 3rd: Binomial and multinomial distributions.
 7. October 10th: Hypergeometric distribution.
 8. <ins>October 17th</ins>: **Midterm test** during lecture time, covering topics 1 through 7. We will have a 
