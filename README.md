@@ -1,5 +1,13 @@
 # CSE 206 — Probability and Statistics
 
+_Instructor_: Sergio Mayorga.
+
+&nbsp;&nbsp;&nbsp;&nbsp; _Office_: 411 A.
+
+&nbsp;&nbsp;&nbsp;&nbsp; _Email address_: s.mayorga "at" "innopolis" "dot" "ru"
+
+&nbsp;&nbsp;&nbsp;&nbsp; _Office hours_: Thursdays 6pm-8pm in office 411 A.
+
 The grade in this class will be determined by the **final exam** (30%), a **midterm test** (30%),
 two **partial tests** (15% each), and **two quizzes** (5% each).
 
