@@ -11,8 +11,8 @@ _Instructor_: Sergio Mayorga.
 The grade in this class will be determined by the **final exam** (30%), a **midterm test** (30%),
 two **partial tests** (15% each), and **two quizzes** (5% each).
 
-The two quizzes will _not_ be announced beforehand and will take place during the first 10 minutes of *some* of the recitation (lab) sessions. 
-Each quiz will consist of one question on a topic from the last lecture (the most recent lecture before the recitation). 
+The two quizzes will _not_ be announced beforehand and will take place during the last 10-15 minutes of *some* of the tutorial sessions. 
+Each quiz will consist of one question on a topic from the same session. 
 The exact dates for the quizzes will be secret.
 
 Everything else is scheduled:
