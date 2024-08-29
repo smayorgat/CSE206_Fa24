@@ -1,12 +1,21 @@
 # CSE 206 — Probability and Statistics
 
-_Instructor_: Sergio Mayorga.
-
-&nbsp;&nbsp;&nbsp;&nbsp; _Office_: 411 A.
-
-&nbsp;&nbsp;&nbsp;&nbsp; _Email address_: s.mayorga "at" "innopolis" "dot" "ru"
-
-&nbsp;&nbsp;&nbsp;&nbsp; _Office hours_: Thursdays 6pm-8pm in office 411 A.
+<ul>
+<li> <i>Instructor</i>: Sergio Mayorga.</li>
+<li> <i>Office</i>: 411 A. </li>
+<li> <i>Email address</i>: s.mayorga "at" "innopolis" "dot" "ru" </li>
+<li> <i>Office hours</i>: Thursdays 6pm-8pm in office 411 A. </li>
+<li> <i>Textbook</i>: I will use a mix of sources. Some times I will have my own personal notes. In English, you can read:
+  <ul> 
+    <li> Gnedenko, Khinchin: "An elementary introduction to the theory of probability". </li>
+    <li> Walpole, Myers, Myers, Ye: "Probability and Statistics for Engineers and Scientists".  </li>
+  </ul>
+  In Russian you can read:
+  <ul>
+    <li> Б. В. Гнеденко, А. Я. Хинчим, "Элементарное введение в теорию вероятностей".</li>
+    <li> Е. А. Трофимова, Н. В. Кисляк, Д. В. Гилёв, "Теория вероятностей и математическая статистика" (учебное пособие). </li>
+  </ul>
+</ul>
 
 The grade in this class will be determined by the **final exam** (30%), a **midterm test** (30%),
 two **partial tests** (15% each), and **two quizzes** (5% each).
