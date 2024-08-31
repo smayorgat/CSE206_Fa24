@@ -25,20 +25,20 @@ Each quiz will consist of one question on a topic from the same session.
 The exact dates for the quizzes will be secret.
 
 Everything else is scheduled:
-1. August 29th: Introduction.
-2. September 5th: Data statistics.
-3. September 12th: Events, probability, conditional probability and Bayes' formula.
-4. September 19th: Probability distributions.
-5. <ins>September 26th</ins>: Mean, variance, covariance and Chebyshev's inequality. **Partial test** on
+1. August 29th: Introduction to the course. Data statistics.
+2. September 5th: Events, probability, conditional probability and Bayes' formula.
+3. September 12th: Random variables and probability distributions.
+4. September 19th: Mean, variance, covariance and Chebyshev's inequality.
+5. <ins>September 26th</ins>:  Binomial and multinomial distributions. **Partial test** on
 topics 1 through 4 *during tutorial time*.
-6. October 3rd: Binomial and multinomial distributions.
-7. October 10th: Hypergeometric distribution.
+6. October 3rd:  Hypergeometric distribution.
+7. October 10th: Poisson distribution and process.
 8. <ins>October 17th</ins>: **Midterm test** during lecture time, covering topics 1 through 7. We will have a 
 discussion during tutorial time.
-9. October 24th: Poisson distribution and process.
-10. October 31th: Continuous probability distributions (I).
-11. November 7th: Continuous probability distributions (II).
-12. <ins>November 14th</ins>: Sampling distribution of means and the central limit theorem.
+9. October 24th: Continuous probability distributions (I).
+10. October 31th: Continuous probability distributions (II).
+11. November 7th: Sampling distribution of means and the central limit theorem.
+12. <ins>November 14th</ins>: t-Distribution, F-Distribution, Quantile and Probability Plots.
 **Partial test** during the recitation following this lecture, on topics 9 through 11.
 13. November 21th: Elementary estimation theory.
 14. November 28th: Elementary hypothesis testing.
