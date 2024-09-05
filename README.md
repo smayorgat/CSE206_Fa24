@@ -4,7 +4,7 @@
 <li> <i>Instructor</i>: Sergio Mayorga.</li>
 <li> <i>Office</i>: 411 A. </li>
 <li> <i>Email address</i>: s.mayorga "at" "innopolis" "dot" "ru" </li>
-<li> <i>Office hours</i>: Thursdays 6pm-8pm in office 411 A. </li>
+<li> <i>Office hours</i>: Saturdays 9 am - 11 am in office 411 A. </li>
 <li> <i>Textbook</i>: I will use a mix of sources. Some times I will have my own personal notes. In English, you can read:
   <ul> 
     <li> Gnedenko, Khinchin: "An elementary introduction to the theory of probability". </li>
