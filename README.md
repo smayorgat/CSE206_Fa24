@@ -24,7 +24,15 @@ The two quizzes will _not_ be announced beforehand and will take place during th
 Each quiz will consist of one question on a topic from the same session. 
 The exact dates for the quizzes will be secret.
 
-Everything else is scheduled:
+If your final score is _x_, then
+
+* you get an A if _x_ ≥ 87,
+* you get a B if 87 > _x_ ≥ 70,
+* you get a C if 70 > _x_ ≥ 55,
+* you get a D if 55 > _x_ ≥ -∞.
+
+The schedule of topics is roughtly the following (subject to changes): 
+
 1. August 29th: Introduction to the course. Data statistics.
 2. September 5th: Events, probability, conditional probability and Bayes' formula.
 3. September 12th: Random variables and probability distributions.
