@@ -48,12 +48,12 @@ Cauchy distribution. Exponential distribution.
 9. October 10th: Poisson distribution and process. Continuous random variables and vectors:
 marginal distributions, dependence. Conditional distributions
 and conditional expectation.
-10. <ins>October 17th</ins>: Exercises during lecture time. **Midterm test** during lecture time, covering topics 1 through 7.
+10. <ins>October 17th</ins>: Exercises during lecture time. **Midterm test** *during tutorial time*, covering topics 1 through 7.
 11. October 24th: Functions of random variables. Sums of random variables. Multivariate normal distribution.
 12. October 31th: Sampling from a distribution. Coupling.
 13. November 7th: Sampling distribution of means and the central limit theorem.
-14. <ins>November 14th</ins>: Сhi-squared distribution, t-Distribution, F-Distribution. Sampling from a distribution.
-**Partial test** during the recitation following this lecture, on topics 9 through 11.
+14. <ins>November 14th</ins>: Сhi-squared distribution, t-Distribution, F-Distribution. 
+**Partial test** *during tutorial time*, on topics 9 through 11.
 15. November 21th: Elementary estimation theory.
 16. November 28th: Elementary hypothesis testing.
 17. December 5th: Elementary linear regression.
