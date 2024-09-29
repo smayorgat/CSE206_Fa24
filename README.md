@@ -35,21 +35,27 @@ The schedule of topics is roughtly the following (subject to changes):
 
 1. August 29th: Introduction to the course. Data statistics.
 2. September 5th: Events, probability, conditional probability and Bayes' formula.
-3. September 12th: Random variables and probability distributions.
-4. September 19th: Mean, variance, covariance and Chebyshev's inequality.
-5. <ins>September 26th</ins>:  Binomial and multinomial distributions. **Partial test** on
+3. September 12th: Random variables, vectors and probability distributions. 
+Probability mass functions, joint probability mass functions, marginal probability mass
+functions and conditional probability mass functions.
+5. September 19th: Mean, variance, covariance and Chebyshev's inequality. The mean of 
+any random variable.
+7. <ins>September 26th</ins>:  Multinomial distributions. Continuous random variables:
+definition. Continuous uniform distribution. Normal distribution.  **Partial test** on
 topics 1 through 4 *during tutorial time*.
-6. October 3rd:  Hypergeometric distribution.
-7. October 10th: Poisson distribution and process.
-8. <ins>October 17th</ins>: **Midterm test** during lecture time, covering topics 1 through 7. We will have a 
-discussion during tutorial time.
-9. October 24th: Continuous probability distributions (I).
-10. October 31th: Continuous probability distributions (II).
-11. November 7th: Sampling distribution of means and the central limit theorem.
-12. <ins>November 14th</ins>: t-Distribution, F-Distribution, Quantile and Probability Plots.
+8. October 3rd:  Hypergeometric distribution. Calculation of moments of continuous random variables.
+Cauchy distribution. Exponential distribution.
+9. October 10th: Poisson distribution and process. Continuous random variables and vectors:
+marginal distributions, dependence. Conditional distributions
+and conditional expectation.
+10. <ins>October 17th</ins>: Exercises during lecture time. **Midterm test** during lecture time, covering topics 1 through 7.
+11. October 24th: Functions of random variables. Sums of random variables. Multivariate normal distribution.
+12. October 31th: Sampling from a distribution. Coupling.
+13. November 7th: Sampling distribution of means and the central limit theorem.
+14. <ins>November 14th</ins>: Сhi-squared distribution, t-Distribution, F-Distribution. Sampling from a distribution.
 **Partial test** during the recitation following this lecture, on topics 9 through 11.
-13. November 21th: Elementary estimation theory.
-14. November 28th: Elementary hypothesis testing.
-15. December 5th: Elementary linear regression.
+15. November 21th: Elementary estimation theory.
+16. November 28th: Elementary hypothesis testing.
+17. December 5th: Elementary linear regression.
 
 <ins>The **final exam**</ins> will take place during the final exam week.
