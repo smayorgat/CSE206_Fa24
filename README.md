@@ -44,18 +44,19 @@ any random variable.
 definition. Continuous uniform distribution. Normal distribution.  **Partial test** on
 topics 1 through 4 *during tutorial time*.
 8. October 3rd:  Hypergeometric distribution. Calculation of moments of continuous random variables.
-Cauchy distribution. Exponential distribution.
-9. October 10th: Poisson distribution and process. Continuous random variables and vectors:
+Cauchy distribution. Exponential distribution. Calculation of the density of the function of
+random variable.
+10. October 10th: Poisson distribution and process. Continuous random variables and vectors:
 marginal distributions, dependence. Conditional distributions
 and conditional expectation.
-10. <ins>October 17th</ins>: Exercises during lecture time. **Midterm test** *during tutorial time*, covering topics 1 through 7.
-11. October 24th: Functions of random variables. Sums of random variables. Multivariate normal distribution.
-12. October 31th: Sampling from a distribution. Coupling.
-13. November 7th: Sampling distribution of means and the central limit theorem.
-14. <ins>November 14th</ins>: Сhi-squared distribution, t-Distribution, F-Distribution. 
+11. <ins>October 17th</ins>: Exercises during lecture time. **Midterm test** *during tutorial time*, covering topics 1 through 7.
+12. October 24th: Functions of random variables. Sums of random variables. Multivariate normal distribution.
+13. October 31th: Sampling from a distribution. Coupling.
+14. November 7th: Sampling distribution of means and the central limit theorem.
+15. <ins>November 14th</ins>: Сhi-squared distribution, t-Distribution, F-Distribution. 
 **Partial test** *during tutorial time*, on topics 9 through 11.
-15. November 21th: Elementary estimation theory.
-16. November 28th: Elementary hypothesis testing.
-17. December 5th: Elementary linear regression.
+16. November 21th: Elementary estimation theory.
+17. November 28th: Elementary hypothesis testing.
+18. December 5th: Elementary linear regression.
 
 <ins>The **final exam**</ins> will take place during the final exam week.
