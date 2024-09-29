@@ -50,7 +50,7 @@ random variable.
 marginal distributions, dependence. Conditional distributions
 and conditional expectation.
 11. <ins>October 17th</ins>: Exercises during lecture time. **Midterm test** *during tutorial time*, covering topics 1 through 7.
-12. October 24th: Functions of random variables. Sums of random variables. Multivariate normal distribution.
+12. October 24th: Functions of random vectors. Sums of random variables. Multivariate normal distribution.
 13. October 31th: Sampling from a distribution. Coupling.
 14. November 7th: Sampling distribution of means and the central limit theorem.
 15. <ins>November 14th</ins>: Сhi-squared distribution, t-Distribution, F-Distribution. 
