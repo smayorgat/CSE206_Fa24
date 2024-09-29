@@ -47,7 +47,7 @@ topics 1 through 4 *during tutorial time*.
 Cauchy distribution. Exponential distribution. Calculation of the density of the function of
 random variable.
 10. October 10th: Poisson distribution and process. Continuous random variables and vectors:
-marginal distributions, dependence. Conditional distributions
+marginal distributions, independence. Conditional distributions
 and conditional expectation.
 11. <ins>October 17th</ins>: Exercises during lecture time. **Midterm test** *during tutorial time*, covering topics 1 through 7.
 12. October 24th: Functions of random vectors. Sums of random variables. Multivariate normal distribution.
