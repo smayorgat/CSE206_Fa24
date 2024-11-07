@@ -58,4 +58,4 @@ and conditional expectation.
 14. November 28th: Elemantariy estimation theory (continuation). Elementary hypothesis testing.
 15. December 5th: Elementary linear regression.
 
-<ins>The **final exam**</ins> will take place during the final exam week.
+<ins>The **final exam**</ins> will take place on December 10th (a Tuesday), 14:10 - 17:00.
