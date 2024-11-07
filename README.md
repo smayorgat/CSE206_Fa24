@@ -55,7 +55,7 @@ and conditional expectation.
 11. November 7th: Sampling distribution of means and the central limit theorem.
 12. November 14th: More on limit theorems, applications. 
 13. <ins>November 21th</ins>: Elementary estimation theory. **Partial test** *during tutorial time*, on topics 9 through 12.
-Coupling and rejectiong method are excluded from the test.
+Coupling and rejection method are excluded from the test.
 14. November 28th: Elemantariy estimation theory (continuation). Elementary hypothesis testing.
 15. December 5th: Elementary linear regression.
 
