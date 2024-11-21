@@ -56,7 +56,7 @@ and conditional expectation.
 12. November 14th: More on limit theorems, applications. 
 13. <ins>November 21th</ins>: Elementary estimation theory. **Partial test** *during tutorial time*, on topics 9 through 12.
 Coupling and rejection method are excluded from the test.
-14. November 28th: Elemantary estimation theory (continuation). Elementary hypothesis testing.
+14. November 28th: Elementary estimation theory (continuation). Elementary hypothesis testing.
 15. December 5th: Elementary linear regression.
 
 <ins>The **final exam**</ins> will take place on December 10th (a Tuesday), 14:10 - 17:00.
